@@ -14,4 +14,4 @@ The project includes an interactive test with input validation so the user can�
 
 **Notes on Library Usage:**
 
-This project only uses Python’s standard libraries. The os library helps create folders and handle file paths. The csv library is used to read and write the recommendations. The time library is used for a small delay when needed. The random library is imported but not used. **The CSV file is the only external file the program depends on, and it must be downloaded or will be auto-created by the program.**
+This project only uses Python’s standard libraries. The os library helps create folders and handle file paths. The csv library is used to read and write the recommendations. The time library is used for a small delay when needed. The random library is imported but not used. -**The CSV file is the only external file the program depends on, and it must be downloaded or will be auto-created by the program.**-
